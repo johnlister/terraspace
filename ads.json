@@ -1,1 +1,18 @@
-{}
+{
+    "test": {
+        "projectName": "test",
+        "description": "test",
+        "type": "community",
+        "author": "johnlister",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/johnlister/terraspace",
+        "githubUri": "https://github.com/johnlister/terraspace",
+        "license": "apache-2.0",
+        "lastUpdated": "1721598186223",
+        "tags": [
+            "test"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
+    }
+}
